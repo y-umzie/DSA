@@ -1,0 +1,27 @@
+double areaSwitchCase(int ch, vector<double> a) {
+
+  switch (ch) {
+
+    // here values from array will consider as an input for circle and rectangle
+
+  case 1:
+
+    return M_PI * a[0] * a[0];
+
+    // M_PI is necessary for including PI from math library
+
+    break;
+
+  case 2:
+
+    // for rectangle
+
+    return a[0] * a[1];
+
+    break;
+
+  default:
+
+    return 0;
+  }
+}
