@@ -1,3 +1,4 @@
-<p>This is a repo that contains DSA programs</p>
+<h1>This is a repo for DSA</h1>
 <br>
-<h1>Hope this helps!</h1>
+<p>Hope this helps! For more such codes, check out my other repos.</p>
+
